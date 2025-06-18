@@ -4,7 +4,7 @@
 Building intelligent systems at scale — from real-time pipelines to AI-powered mobile apps
 
 📍 San Francisco Bay Area / Los Angeles  
-[LinkedIn](https://www.linkedin.com/in/ridhimamorampudi/) • [Email](mailto:rmorampudi@g.ucla.edu)
+[LinkedIn](https://www.linkedin.com/in/ridhimamorampudi/) | [Email](mailto:rmorampudi@g.ucla.edu)
 
 ---
 
