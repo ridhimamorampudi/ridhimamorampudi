@@ -2,6 +2,7 @@
 
 **UCLA Computer Science Student | SWE Intern @ Principal Financial Group**  
 Full-Stack Development • Machine Learning/AI • Scalable AI Systems  
+
 [LinkedIn](https://www.linkedin.com/in/ridhimamorampudi/) • [Email](mailto:rmorampudi@g.ucla.edu)
 
 ---
