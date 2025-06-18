@@ -1,121 +1,88 @@
 # Ridhima Morampudi
 
 **UCLA Computer Science Student | SWE Intern @ Principal Financial Group**  
-Full-Stack Development • Machine Learning/AI • Scalable AI Systems
-
+Full-Stack Development • Machine Learning/AI • Scalable AI Systems  
 [LinkedIn](https://www.linkedin.com/in/ridhimamorampudi/) • [Email](mailto:rmorampudi@g.ucla.edu)
 
 ---
 
 ## Summary
 
-I am a third-year Computer Science major at UCLA with a strong foundation in backend engineering, AI-driven product development, and mobile application design. I bring experience across startups, research, and enterprise engineering teams where I’ve shipped full-stack products, built ML pipelines, and delivered measurable results. I specialize in designing fast, secure, and scalable systems—ranging from real-time trade signal platforms to assistive AI and social infrastructure apps.
+Third-year UCLA CS student with experience building scalable full-stack products, real-time ML systems, and AI-powered mobile apps. Proven track record across startups, research, and enterprise—specializing in backend infrastructure, NLP pipelines, and user-focused system design.
 
 ---
 
 ## 🔧 Technical Skills
 
-**Languages**: Python, Java, C/C++, Swift, JavaScript, HTML/CSS, x86, MIPS  
-**Frameworks**: Flask, FastAPI, Django, React, Node.js, Express, SwiftUI  
-**Databases**: MongoDB, InfluxDB, PostgreSQL  
-**Tools & Technologies**: AWS, Docker, Git, Firebase, JWT, OCR, NLP, spaCy, FinBERT, Postman, Jira  
-**Concepts**: Full-Stack Development, ML Pipelines, Secure Auth, Real-Time Data, Scalable APIs
+**Languages**: Python, Java, C/C++, Swift, JavaScript  
+**Frameworks**: Flask, FastAPI, Django, React, Node.js, SwiftUI  
+**Tools**: MongoDB, AWS, Docker, Firebase, JWT, FinBERT, spaCy, OCR  
+**Concepts**: Full-Stack Architecture, ML Pipelines, Real-Time Data, Secure Auth
 
 ---
 
-## 📈 Key Projects
+## Projects
 
 ### FindMyFood – Social Food Discovery App  
-**iOS | Firebase | Node.js | Real-Time UX**  
-Launched a full-stack mobile app enabling users to find and share food experiences socially, focused on trust, proximity, and personal recommendations.  
-- Built feed, image upload, post creation, ratings, location-based maps, and custom profiles  
-- Integrated Firebase Cloud Functions for real-time friend request, post, and follow notifications  
-- Backend in Node.js with Express and MongoDB; image storage on AWS S3  
-- Deployed to App Store and gained early traction with 100+ downloads through campus marketing  
-
-**Tech:** Swift, Firebase, Node.js, MongoDB, AWS S3, Cloud Functions, Express
+Deployed iOS app to help users find and share trusted food experiences based on proximity and personal networks.  
+- Built post feed, image upload, interactive maps, and user profiles  
+- Real-time notifications via Firebase Cloud Functions  
+- Node.js + MongoDB backend; assets stored on AWS S3  
+**Tech:** Swift, Node.js, MongoDB, Firebase, AWS
 
 ---
 
-### Molecular Music – DNA Sonification + ML Classification  
-**Bioinformatics | Deep Learning | Audio Signal Analysis**  
-Developed a system that converts DNA sequences into audio and detects genomic mutations using spectrogram analysis.  
-- Used sonification to transform genomic sequences into WAV files based on nucleotide encoding  
-- Converted audio into spectrograms and trained CNN-LSTM models to classify mutations and anomalies  
-- Designed for early detection of genetic disorders in research and diagnostic contexts
-
-**Tech:** Python, librosa, CNN, LSTM, NumPy, pandas, Keras, BioPython
+### Molecular Music – DNA Sonification & ML Classification  
+Converted DNA sequences into audio and detected genomic mutations using CNN-LSTM on spectrograms.  
+- Applied sonification and signal processing for audio feature extraction  
+- Designed for early-stage genetic diagnostics  
+**Tech:** Python, librosa, CNN, LSTM, Keras
 
 ---
 
 ### Alpha Signal Generator  
-**Real-Time Financial Signal System | NLP | Event Detection**  
-Built a trade signal platform that classifies SEC filings and financial news to generate actionable buy/sell signals.  
-- Used FinBERT for sentiment scoring and spaCy for entity extraction  
-- FastAPI backend emits signals every 60 seconds; frontend displays interactive dashboards  
-- MongoDB handles historical logs; system supports latency tracking and event correlation  
-
-**Tech:** FastAPI, MongoDB, FinBERT, spaCy, Next.js, Docker, REST
+Generated real-time trade signals from SEC filings and financial news using NLP.  
+- Used FinBERT for sentiment scoring and spaCy for entity recognition  
+- Signals refreshed every 60s; MongoDB logs with dashboard via Next.js  
+**Tech:** FastAPI, MongoDB, FinBERT, spaCy, Docker
 
 ---
 
 ### Travel Recommendation Engine  
-**Sentiment-Driven Travel Suggestion System**  
-Web app that recommends destinations based on Twitter sentiment trends and real-time weather feeds.  
-- Applied NLP for sentiment analysis and named entity recognition to extract cities and travel themes  
-- Combined multiple signals using a weighted scoring algorithm to rank destinations  
-- Full-stack architecture containerized with Docker and backed by MongoDB  
-
-**Tech:** Flask, React, MongoDB, NLP, Docker
+Suggested destinations using live Twitter sentiment and weather APIs.  
+- Weighted scoring algorithm fused NLP and external data  
+- Full-stack architecture with Dockerized deployment  
+**Tech:** Flask, React, MongoDB, NLP
 
 ---
 
-### SmartBill  
-**iOS OCR Expense Tracker | Swift + Flask Backend**  
-iOS app that enables seniors and students to digitize receipts and automatically classify expenses.  
-- Integrated OCR with rule-based NLP post-processing to categorize items  
-- Flask backend supports secure JWT authentication and AWS Lambda deployment  
-- Features include reminders, auto-budgeting, and visual expense history  
-
-**Tech:** Swift, Flask, MongoDB, AWS Lambda, OCR, JWT
+### SmartBill – iOS OCR Expense Tracker  
+Receipt-scanning app for seniors and students with automatic expense classification.  
+- Integrated OCR and post-processing NLP  
+- Flask API with JWT auth; AWS Lambda backend  
+**Tech:** Swift, Flask, OCR, AWS
 
 ---
 
-## 💼 Experience
+## Experience
 
-### Principal Financial Group — Incoming SWE Intern  
-**Summer 2025 | Des Moines, IA**  
-- Will build protection product applications using Java, Python, AWS Lambda, and IBM WebSphere  
-- Focused on backend architecture in the Benefits & Protection Strategic Business Unit
-
----
+### Principal Financial Group — SWE Intern  
+*Summer 2025 | Des Moines, IA*  
+- Building protection product platforms using Java, Python, AWS Lambda, and IBM WebSphere
 
 ### Aim-Hi — Full Stack Developer Intern  
-**Sep 2024 – Present | Bay Area**  
-- Engineered AI-powered tools for social media automation, including hashtag optimization and content generation  
-- Integrated third-party social APIs and strengthened privacy and security layers  
-- Collaborated with CTO to improve deployment pipelines and user feedback analysis
-
----
+*Sep 2024 – Present | Bay Area*  
+- Developed AI-driven social tools, secured APIs, optimized automation pipelines
 
 ### Euclid Innovations — Machine Learning Intern  
-**Summer 2023 | Charlotte, NC**  
-- Enhanced multi-camera person tracking with improved object detection and identity assignment  
-- Built a time-series data platform with InfluxDB to monitor re-ID model performance  
-- Delivered analytics dashboards for real-time precision, latency, and accuracy tracking
-
----
+*Summer 2023 | Charlotte, NC*  
+- Improved person re-ID with enhanced object detection and analytics dashboards (InfluxDB)
 
 ### HotSeat.io (UCLA DevX) — Developer  
-- Improved alert systems and analytics to help UCLA students navigate enrollment bottlenecks  
-- Added trend visualizations and class reviews to support better academic decision-making
-
----
+- Upgraded enrollment alert system with trend analytics and class review data
 
 ### Age Well Bruins — Backend Engineer  
-- Developed a virtual companion app using Swift and Django REST API to reduce loneliness among seniors  
-- Focused on NLP interaction design, reminders, and data privacy infrastructure  
-- Participated in Agile sprints using Jira for planning and issue tracking
+- Built NLP-based virtual companion using Swift + Django REST for senior wellness
 
 ---
 
