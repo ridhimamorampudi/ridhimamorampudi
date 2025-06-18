@@ -6,7 +6,7 @@ Full-Stack Development • Machine Learning/AI • Scalable AI Systems
 
 ---
 
-## Summary
+## About me
 
 Third-year UCLA CS student with experience building scalable full-stack products, real-time ML systems, and AI-powered mobile apps. Proven track record across startups, research, and enterprise—specializing in backend infrastructure, NLP pipelines, and user-focused system design.
 
