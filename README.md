@@ -4,6 +4,7 @@
 Building intelligent systems at scale — from real-time pipelines to AI-powered mobile apps
 
 📍 San Francisco Bay Area / Los Angeles  
+
 [LinkedIn](https://www.linkedin.com/in/ridhimamorampudi/) | [Email](mailto:rmorampudi@g.ucla.edu)
 
 ---
@@ -107,6 +108,5 @@ Receipt-scanning app for seniors and students with automatic expense classificat
 
 **Email:** rmorampudi@g.ucla.edu  
 **LinkedIn:** [linkedin.com/in/ridhimamorampudi](https://www.linkedin.com/in/ridhimamorampudi/)  
-**Location:** San Francisco Bay Area, CA / Los Angeles, CA
 
 ---
