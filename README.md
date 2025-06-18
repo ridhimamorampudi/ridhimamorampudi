@@ -1,9 +1,10 @@
 # Ridhima Morampudi
 
-**UCLA Computer Science | SWE Intern @ Principal | Full-Stack & ML Developer**
+**UCLA Computer Science | SWE Intern @ Principal | Full-Stack & ML Developer**  
 Building intelligent systems at scale — from real-time pipelines to AI-powered mobile apps
 
-📍 San Francisco Bay Area / Los Angeles | [LinkedIn](https://www.linkedin.com/in/ridhimamorampudi/) | [Email](mailto:rmorampudi@g.ucla.edu) 
+📍 San Francisco Bay Area / Los Angeles  
+[LinkedIn](https://www.linkedin.com/in/ridhimamorampudi/) • [Email](mailto:rmorampudi@g.ucla.edu)
 
 ---
 
