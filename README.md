@@ -69,21 +69,30 @@ Receipt-scanning app for seniors and students with automatic expense classificat
 
 ### Principal Financial Group — SWE Intern  
 *Summer 2025 | Des Moines, IA*  
-- Building protection product platforms using Java, Python, AWS Lambda, and IBM WebSphere
+- Building protection product platforms using Java, Python, AWS Lambda, and IBM WebSphere  
+- Contributing to backend infrastructure focused on scalability, security, and long-term maintainability
 
 ### Aim-Hi — Full Stack Developer Intern  
 *Sep 2024 – Present | Bay Area*  
-- Developed AI-driven social tools, secured APIs, optimized automation pipelines
+- Developed AI-driven social tools, secured APIs, and optimized automation pipelines  
+- Led development of automated content generation features to improve user engagement for small businesses
+
+---
+
+## Extracurriculars
 
 ### Euclid Innovations — Machine Learning Intern  
 *Summer 2023 | Charlotte, NC*  
-- Improved person re-ID with enhanced object detection and analytics dashboards (InfluxDB)
+- Improved person re-ID with enhanced object detection and analytics dashboards (InfluxDB)  
+- Boosted model validation efficiency through redesigned time-series infrastructure and performance tracking
 
 ### HotSeat.io (UCLA DevX) — Developer  
-- Upgraded enrollment alert system with trend analytics and class review data
+- Upgraded enrollment alert system with trend analytics and class review data  
+- Enhanced reliability and responsiveness of alert delivery during peak enrollment periods
 
 ### Age Well Bruins — Backend Engineer  
-- Built NLP-based virtual companion using Swift + Django REST for senior wellness
+- Built NLP-based virtual companion using Swift + Django REST for senior wellness  
+- Integrated reminder systems and privacy-conscious design to promote trust and sustained usage
 
 ---
 
