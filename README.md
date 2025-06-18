@@ -15,11 +15,21 @@ I am a third-year Computer Science major at UCLA with a strong foundation in bac
 
 ## 🔧 Technical Skills
 
-**Languages**: Python, Java, C/C++, Swift, JavaScript, HTML/CSS, x86, MIPS  
-**Frameworks**: Flask, FastAPI, Django, React, Node.js, Express, SwiftUI  
-**Databases**: MongoDB, InfluxDB, PostgreSQL  
-**Tools & Technologies**: AWS, Docker, Git, Firebase, JWT, OCR, NLP, spaCy, FinBERT, Postman, Jira  
-**Concepts**: Full-Stack Development, ML Pipelines, Secure Auth, Real-Time Data, Scalable APIs
+| Category         | Technologies                                                                 |
+|------------------|------------------------------------------------------------------------------|
+| Languages        | Python, Java, C/C++, Swift, JavaScript, HTML/CSS, x86, MIPS                  |
+| Frameworks       | Flask, FastAPI, Django, React, Node.js, Express, SwiftUI                     |
+| Databases        | MongoDB, InfluxDB, PostgreSQL                                                |
+| Tools/Platforms  | AWS, Docker, Git, Firebase, Postman, Jira, IBM WebSphere, JWT               |
+| AI/ML            | FinBERT, spaCy, OCR, NLP, CNN, LSTM, Keras, librosa, BioPython               |
+| Concepts         | Full-Stack Architecture, ML Pipelines, Secure Auth, Real-Time Systems        |
+
+---
+
+## 🏷️ Profile Tags
+
+`#SoftwareEngineering` `#FullStack` `#MachineLearning` `#Backend` `#AI`  
+`#NLP` `#iOSDevelopment` `#StartupExperience` `#ScalableSystems` `#Python` `#React`
 
 ---
 
