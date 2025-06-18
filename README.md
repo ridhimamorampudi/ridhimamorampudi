@@ -124,6 +124,6 @@ iOS app that enables seniors and students to digitize receipts and automatically
 **Email:** rmorampudi@g.ucla.edu  
 **Resume:** [View PDF](./Ridhima%20Morampudi%20Resume%20.pdf)  
 **LinkedIn:** [linkedin.com/in/ridhimamorampudi](https://www.linkedin.com/in/ridhimamorampudi/)  
-**Location:** Los Angeles, CA
+**Location:** San Francisco Bay Area, CA / Los Angeles, CA
 
 ---
