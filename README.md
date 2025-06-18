@@ -1,9 +1,9 @@
 # Ridhima Morampudi
 
-**UCLA Computer Science Student | SWE Intern @ Principal Financial Group**  
-Full-Stack Development • Machine Learning/AI • Scalable AI Systems  
+**UCLA Computer Science | SWE Intern @ Principal | Full-Stack & ML Developer**
+Building intelligent systems at scale — from real-time pipelines to AI-powered mobile apps
 
-[LinkedIn](https://www.linkedin.com/in/ridhimamorampudi/) • [Email](mailto:rmorampudi@g.ucla.edu)
+📍 San Francisco Bay Area / Los Angeles | [LinkedIn](https://www.linkedin.com/in/ridhimamorampudi/) | [Email](mailto:rmorampudi@g.ucla.edu) 
 
 ---
 
