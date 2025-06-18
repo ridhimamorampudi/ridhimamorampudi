@@ -105,7 +105,6 @@ Receipt-scanning app for seniors and students with automatic expense classificat
 ## 📄 Resume + Contact
 
 **Email:** rmorampudi@g.ucla.edu  
-**Resume:** [View PDF](./Ridhima%20Morampudi%20Resume%20.pdf)  
 **LinkedIn:** [linkedin.com/in/ridhimamorampudi](https://www.linkedin.com/in/ridhimamorampudi/)  
 **Location:** San Francisco Bay Area, CA / Los Angeles, CA
 
