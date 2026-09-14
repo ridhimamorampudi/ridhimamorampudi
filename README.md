@@ -1,6 +1,6 @@
 # Ridhima Morampudi
 
-**UCLA Computer Science | SWE Intern @ Principal | Full-Stack & ML Developer**  
+**UCLA Computer Science | Prev SWE Intern @ PayPal, Principal Financial Group | Full-Stack & ML Developer**  
 Building intelligent systems at scale — from real-time pipelines to AI-powered mobile apps
 
 📍 San Francisco Bay Area / Los Angeles  
